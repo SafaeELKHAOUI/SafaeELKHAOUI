@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hello everybody!! 👋<br><br>I'm Safae, an engineering student with a passion for Artificial Intelligence.<br> Currently immersed in the fascinating world of Generative AI.<br><br> 🌟 What I Bring to the Table:<br><br>- **Generative AI Enthusiast:** Exploring the limitless possibilities of generative models is my playground.<br><br>- **AI & Machine Learning:** Delving into the intricacies of AI.<br><br>- **Personal AI Projects:** Always working on exciting AI projects in my free time.
+### Hello everybody!! 👋<br><br>I'm Safae, an Artificial Intelligence & Data Science engineering student .<br> Currently immersed in the fascinating world of Generative AI.<br><br> 🌟 What I Bring to the Table:<br><br>- **Generative AI Enthusiast:** Exploring the limitless possibilities of generative models is my playground.<br><br>- **AI & Machine Learning:** Delving into the intricacies of AI.<br><br>- **Personal AI Projects:** Always working on exciting AI projects in my free time.
 
 
 ## 🌐 Socials:
